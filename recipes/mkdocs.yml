@@ -6,8 +6,12 @@ site_author: Djonathan Luiz de Oliveira Quadras
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: blue
+    primary: brown
+    accent: deep orange
+
+plugins:
+  - search
+  - tags
 
 nav:
   - Início: index.md
@@ -23,5 +27,7 @@ nav:
       - Tiramisù alla Birra: Sobremesas/tiramisu_birra.md
   - Bolos:
       - Bolo da Família Quadras: Bolos/bolo_quadras.md
+      - Bolo de Banana: Bolos/bolo_banana.md
   - Padaria:
       - Pão de Queijo: Padaria/pao_de_queijo.md
+      - Rosca Joinvillense: Padaria/rosca.md

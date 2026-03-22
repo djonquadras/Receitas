@@ -1,12 +1,13 @@
-# Carbonada di Zucchine
+---
+tags:
+  - ⏱️ 20 min
+  - 🟢 Facile
+---
 
-Difficoltà: facile.
+# Carbonara di Zucchine
 
-Tempo di Preparazione: 20 minuti.
 
-Ingredienti per 4 persone:
 
-## Ingredienti (per 4 persone)
 
 * 400g di spaghettoni
 * 500g di zucchine fiorentine
@@ -19,7 +20,7 @@ Ingredienti per 4 persone:
 * Buccia di limone bio
 * Pepe
 
-## Riceta
+## Ricetta## Ingredienti (per 4 persone)
 
 1. Mettete sul fuoco una pentola de acqua, portatela a ebollizione e aggiungete un pugnello di sale grosso.
 2. Intanto lavate e tagliate a rondelline le zucchine.
@@ -32,3 +33,5 @@ Ingredienti per 4 persone:
 9. Se serve, aggiungete un po' di acqua calda per creare una cremina densa e avvolgente.
 10. Aiutandovi col romaiolo e le pinze, formate nelle scodelle un bel nido di pasta, nappatela col sugo di zucchine e rifinitela con una spolverata di pepe.
 11. Subito in tavola. è buona caldissima!
+
+![Carbonara di Zucchine](../img/carbonara-di-zucchine.jpg)

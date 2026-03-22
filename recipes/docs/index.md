@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Bem-vindo ao Meu Livro de Receitas!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Esta é uma coleção muito especial dos meus pratos favoritos, unindo o melhor de dois mundos que amo: a cozinha **brasileira** e a **italiana**. 
 
-## Commands
+Aqui você vai encontrar uma mistura deliciosa de:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 🏡 **Experiências de vida:** Receitas com sabor de memória que venho preparando e aprimorando ao longo do tempo.
+* 📰 **Achados gastronômicos:** Descobertas e adaptações de pratos incríveis que encontrei em revistas e jornais que coleciono.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Sinta-se em casa, explore o menu lateral por categorias e bom apetite!
