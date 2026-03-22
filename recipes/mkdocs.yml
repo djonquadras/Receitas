@@ -1,0 +1,27 @@
+site_name: Receitas
+site_description: Receitas italianas e brasileiras.
+site_author: Djonathan Luiz de Oliveira Quadras
+
+# Configuração do Tema
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+
+nav:
+  - Início: index.md
+  - Entradas:
+      - Tortinhas de Frango: Entradas/tortinha_frango.md
+  - Primi:
+      - Carbonara di Zucchine: Primi/carbonara_zucchine.md
+  - Secondi:
+      - Calamari Ripieni di Riso: Secondi/calamari_riso.md
+  - Contorni:
+      - Stufato di Verdure Estive: Contorni/stufato_verdure.md
+  - Sobremesas:
+      - Tiramisù alla Birra: Sobremesas/tiramisu_birra.md
+  - Bolos:
+      - Bolo da Família Quadras: Bolos/bolo_quadras.md
+  - Padaria:
+      - Pão de Queijo: Padaria/pao_de_queijo.md
