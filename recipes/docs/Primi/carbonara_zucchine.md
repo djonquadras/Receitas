@@ -7,7 +7,7 @@ tags:
 # Carbonara di Zucchine
 
 
-
+## Ingredienti (per 4 persone)
 
 * 400g di spaghettoni
 * 500g di zucchine fiorentine
@@ -20,7 +20,7 @@ tags:
 * Buccia di limone bio
 * Pepe
 
-## Ricetta## Ingredienti (per 4 persone)
+## Ricetta
 
 1. Mettete sul fuoco una pentola de acqua, portatela a ebollizione e aggiungete un pugnello di sale grosso.
 2. Intanto lavate e tagliate a rondelline le zucchine.
