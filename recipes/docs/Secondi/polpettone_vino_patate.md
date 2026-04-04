@@ -23,6 +23,7 @@ tags:
 - Sale e pepe
 
 **Vino consigliato:**
+
 - Chianti Classico Docg Fior fiore
 
 ## Ricetta

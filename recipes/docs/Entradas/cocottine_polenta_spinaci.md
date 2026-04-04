@@ -18,6 +18,7 @@ tags:
 - Sale e pepe
 
 **Vino consigliato:**
+
 - Valpolicella Ripasso Doc Fior fiore
 
 ## Ricetta

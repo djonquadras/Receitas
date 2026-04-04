@@ -19,6 +19,7 @@ tags:
 - Pepe
 
 **Vino consigliato:**
+
 - Chardonnay Sicilia Doc
 
 ## Ricetta

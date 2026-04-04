@@ -1,0 +1,3 @@
+cd .\recipes\
+mkdocs serve
+mkdocs gh-deploy

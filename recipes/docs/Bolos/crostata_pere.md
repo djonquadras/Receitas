@@ -16,12 +16,14 @@ tags:
 - 1 pizzico di sale
 
 **Per la confettura:**
+
 - 800 g di pere mature
 - 300 g di zucchero di canna chiaro Solidal
 - 1 limone
 - ½ stecca di cannella
 
 **Vino consigliato:**
+
 - Malvasia delle Lipari Passito
 
 ## Ricetta

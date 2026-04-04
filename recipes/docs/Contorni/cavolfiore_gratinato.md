@@ -17,6 +17,7 @@ tags:
 - Sale e pepe
 
 **Vino consigliato:**
+
 - Gewürztraminer Alto Adige Doc Fior fiore
 
 ## Ricetta

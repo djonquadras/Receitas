@@ -17,6 +17,7 @@ tags:
 - Sale e pepe
 
 **Vino consigliato:**
+
 - Sicilia Doc Catarratto Fior fiore
 
 ## Ricetta

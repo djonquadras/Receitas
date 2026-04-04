@@ -16,6 +16,7 @@ tags:
 - Sale e pepe
 
 **Per la salsa di anacardi:**
+
 - 200 g di anacardi sgusciati
 - 50 g di cipollotto bianco
 - 1 cucchiaio di succo di limone
