@@ -22,24 +22,37 @@ nav:
   - Primi:
       - Cannelloni al ragù di lenticchie: Primi/canelloni_lenticchie.md
       - Carbonara di Zucchine: Primi/carbonara_zucchine.md
+      - Conchiglioni ripieni di carciofi e piseli: Primi/conchiglioni_carciofi.md
+      - Gnocchi di zucca con salsa alle noci: Primi/gnocchi_zucca_noci.md
+      - Linguine al limone e ricotta con gamberi: Primi/linguine_limone_ricotta.md
       - Pasta al copollotto e limone: Primi/pasta_cipollotto.md
+      - Polenta con le leghe: Primi/polenta_leghe.md
       - Zuppa di piselli con i quadrucci: Primi/zuppa_piselli.md
   - Secondi:
+      - Arista con pere e castagne: Secondi/arista_pere_castagne.md
       - Calamari Ripieni di Riso: Secondi/calamari_riso.md
+      - Costolette di agnello con fave e gorgonzola: Secondi/costolette_agnello_gorgonzola.md
+      - Gyoza di lampredotto e cavolo nero: Secondi/gyoza_lampredotto.md
       - Lampredotto ai carciofi: Secondi/lampredotto_carciofi.md
       - Pollo al miele e limone: Secondi/pollo_miele.md
       - Polpettone al vino con patate: Secondi/polpettone_vino_patate.md
+      - Tofu con patate novelle e pesto di zucchine: Secondi/tofu_patata_pesto.md
+      - Vignarola romana: Secondi/vignarola_romana.md
   - Contorni:
       - Cavolfiore gratinato: Contorni/cavolfiore_gratinato.md
       - Indivia brasata agli agrumi: Contorni/indivia_agrumi.md
+      - Insalata russa: Contorni/insalata_russa.md
       - Stufato di Verdure Estive: Contorni/stufato_verdure.md
   - Sobremesas:
       - Caramelle mou: Sobremesas/caramelle_mou.md
+      - Mele al forno: Sobremesas/mele_forno.md
       - Tiramisù alla Birra: Sobremesas/tiramisu_birra.md
   - Bolos:
       - Bolo da Família Quadras: Bolos/bolo_quadras.md
       - Bolo de Banana: Bolos/bolo_banana.md
       - Crostata con pere e cannela: Bolos/crostata_pere.md
   - Padaria:
+      - Muffin con avena integrale e gocce di cioccolato: Padaria/muffin_avena_gocce.md
       - Pão de Queijo: Padaria/pao_de_queijo.md
       - Rosca Joinvillense: Padaria/rosca.md
+      - Stelline glassate: Padaria/stelline.md
